@@ -1,4 +1,4 @@
-rmarkdown::render("testing_Rmd.Rmd", "all") 
+rmarkdown::render("README.Rmd", "all") 
 	
 
 
