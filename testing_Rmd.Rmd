@@ -1,0 +1,35 @@
+---
+title: "testing_Rmd"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    toc: true
+    theme: journal
+    number_sections: true
+  pdf_document:
+    toc: true
+    number_sections: true
+  md_document:
+    toc: true      
+---
+
+
+# Section 1
+
+Stuff
+
+# Section 2
+
+More Stuff
+
+## Random Stuff A
+
+1 + 2
+
+## Random Stuff B
+
+```{r}
+1 + 2
+```
+
+# Conclusion
